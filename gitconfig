@@ -62,3 +62,7 @@
 [user]
 	email = remybigot@gmail.com
 	name = Remy Bigot
+[http]
+	postBuffer = 1048576000
+[https]
+	postBuffer = 1048576000
