@@ -1,6 +1,6 @@
 This repository is used by [Le Wagon](https://www.lewagon.com) students.
 
-## Toolset
+## Toolsettt
 
 - [oh-my-zsh](http://ohmyz.sh/)
 - [Visual Studio Code](https://code.visualstudio.com/)
