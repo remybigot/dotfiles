@@ -61,7 +61,7 @@
   defaultBranch = master
 [user]
 	email = remybigot@gmail.com
-	name = REMY
+	name = remy
 [http]
 	postBuffer = 157286400
 [https]
